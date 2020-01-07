@@ -8,16 +8,16 @@ https://classroom.github.com/classrooms/58991550-pm520-spring-2020-classroom-1/
 In order to access the exercise/assignment details, pseudocode, etc., and then be able to push your solutions so that I can see them, you need to accept the invitation you will receive via email for each exercise.
 
 ## More Github details go here....
-Steps you will need to complete (that we will help you with at the staert of Week 1's class, where needed):
+Steps you will need to complete (that we will help you with at the start of Week 1's class, where needed):
 1. If you don't have one already, create an account for yourself at Github.com
 2. Install github on your local machine for use by RStudio
 
-When you starty work on an exercises or assignment, you will need to complete the following steps:
-1. Accept the invitation to the assignment that you will receive (bny email, I think)
-2. Link the assignment to your Github ID (github will autoatically ask you to do this and help you get it done).
+When you start work on an exercises or assignment, you will need to complete the following steps:
+1. Accept the invitation to the assignment that you will receive (by email, I think)
+2. Link the assignment to your Github ID (github will automatically ask you to do this and help you get it done).
 3. Downoad the pseudocode (if there is any for that problem). The simplest way to do this using RStudio is...
-4. As you are working on the problem, regularly "commit" your work. I will not be able to see what you are doing, and comment on it, until you "push" the work back to Github.
-5. Once you have completed your work on that problem you need to "commit" you work and then push it to githubn one final time.
+4. As you are working on the problem, regularly "commit" your work. I will not be able to see what you are doing, and comment on it, until you "push" the work back to Github. Get into the habit of committing regularly.
+5. Once you have completed your work on that problem you need to "commit" you work and then push it to github one final time.
 
 
 ## Here is the Course Syllabus:
