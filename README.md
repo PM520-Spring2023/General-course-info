@@ -1,16 +1,42 @@
 # General-course-info
 
-We are going to be using github to manage up/download of exercises and assignments. Some details of how to do that will be added below.
+We are going to be using github to manage up/download of exercises and assignments. We encourage the use of R as a coding language for this course. Some details of how to install R and github can be found below. Please install these before hte first class if you can. If you run into any problems, we can help you with them at the start of class.
+
+1. The home page for the R project is: http://www.r-project.org/
+Please follow the link downloadR in the box Getting Started.
+Then download and install the most recent release: ver3.6.0 released 2019-04-26.
+Older machines might require an older version.
+
+2. We will be running R using the R Studio integrated development environment (IDE).
+Please download and install RStudio Desktop Open Source License from the following
+website: http://www.rstudio.com/
+
+3. Please create a GitHub account at https://github.com if you do not have one.
+
+4. You will need the software Git to talk between GitHub and RStudio. Please install Git
+from https://git-scm.com/downloads. Now we want to set our Git username and email.
+We do this by opening a Terminal (cmd) Window and typing (using "Mona Lisa" as an example username):
+>git config --global user.name "Mona Lisa"
+
+confirm that the user name is set by typing
+>git config --global user.name
+>Mona Lisa
+
+Setting the email is very similar. Do this by typing
+>git config --global user.email "email@example.com"
+
+And confirm that you have set the email address by typing:
+>git config --global user.email
+>email@example.com
+
+Directions to follow are found here, under Setting up Git:
+https://help.github.com/articles/set-up-git/
+
 
 In-class exercises and examinable assignments can be found at the following website:
 https://classroom.github.com/classrooms/58991550-pm520-spring-2020-classroom-1/
 
 In order to access the exercise/assignment details, pseudocode, etc., and then be able to push your solutions so that I can see them, you need to accept the invitation you will receive via email for each exercise.
-
-## More Github details go here....
-Steps you will need to complete (that we will help you with at the start of Week 1's class, where needed):
-1. If you don't have one already, create an account for yourself at Github.com
-2. Install github on your local machine for use by RStudio
 
 When you start work on an exercises or assignment, you will need to complete the following steps:
 1. Accept the invitation to the assignment that you will receive (by email, I think)
