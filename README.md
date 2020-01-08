@@ -4,7 +4,7 @@ We are going to be using github to manage up/download of exercises and assignmen
 
 1. The home page for the R project is: http://www.r-project.org/
 Please follow the link downloadR in the box Getting Started.
-Then download and install the most recent release: ver3.6.0 released 2019-04-26.
+Then download and install the most recent release: ver3.6.2 released 2019-12-12.
 Older machines might require an older version.
 
 2. We will be running R using the R Studio integrated development environment (IDE).
