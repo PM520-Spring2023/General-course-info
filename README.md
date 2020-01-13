@@ -41,7 +41,7 @@ In order to access the exercise/assignment details, pseudocode, etc., and then b
 When you start work on an exercises or assignment, you will need to complete the following steps:
 1. Accept the invitation to the assignment that you will receive (by email, I think)
 2. Link the assignment to your Github ID (github will automatically ask you to do this and help you get it done).
-3. Downoad the pseudocode (if there is any for that problem). The simplest way to do this using RStudio is...
+3. Downoad the pseudocode (if there is any for that problem). The simplest way to do this using RStudio is shown in the "Hello World" exercise that we will be doing at the start of class on Week 1.
 4. As you are working on the problem, regularly "commit" your work. I will not be able to see what you are doing, and comment on it, until you "push" the work back to Github. Get into the habit of committing regularly.
 5. Once you have completed your work on that problem you need to "commit" you work and then push it to github one final time.
 
