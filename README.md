@@ -1,6 +1,6 @@
 # General-course-info
 
-We are going to be using github to manage up/download of exercises and assignments. We encourage the use of R as a coding language for this course. Some details of how to install R and github can be found below. Please install these before hte first class if you can. If you run into any problems, we can help you with them at the start of class.
+We are going to be using github to manage up/download of exercises and assignments. We encourage the use of R as a coding language for this course. Some details of how to install R and github can be found below. Please install these before the first class if you can. If you run into any problems, we can help you with them at the start of class.
 
 1. The home page for the R project is: http://www.r-project.org/
 Please follow the link downloadR in the box Getting Started.
