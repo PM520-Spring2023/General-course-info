@@ -33,8 +33,7 @@ Directions to follow are found here, under Setting up Git:
 https://help.github.com/articles/set-up-git/
 
 
-In-class exercises and examinable assignments can be found at the following website:
-https://classroom.github.com/classrooms/58991550-pm520-spring-2020-classroom-1/
+In-class exercises and examinable assignments will be posted here. The best way to access them will be via invites you will receive via Github classroom. (If you do it that way it will automatically set up your repositories and make them available to the insdtructor for feedback and grading when you are ready.)
 
 In order to access the exercise/assignment details, pseudocode, etc., and then be able to push your solutions so that I can see them, you need to accept the invitation you will receive via email for each exercise.
 
