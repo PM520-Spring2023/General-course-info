@@ -84,25 +84,28 @@ Pre-requisites: None, but you will need to have some basic statistics and probab
 
 
 ### PROPOSED COURSE OUTLINE:
+
 Most weeks will be based upon one of the chapters from the course text, but some of the latter weeks will digress from the text and use material that will be distributed or described in class [labeled “(external material)”].
 
-Week 1: Introduction – Using Github; Random number generation and Monte Carlo Estimation. How to estimate things that you cannot calculate. Coin-tossing. Occupancy problems. Hypercubes. Golf balls. 
-Week 2: More Monte Carlo Estimation: Estimating pi, Random variable simulation, Likelihood Estimation. Bayesian methods. Accept/Reject Algorithms (external material).
-Week 3: Methods for finding function roots and fixed points. Math as art. (Chapter 10 of course text).
-Week 4: Probability and Stochastic Simulation – Urn Models and Chinese Restaurants (Chapter 18 vol 1; or Chapter 20, in the 2nd ed.).
-Week 5: Optimization and Regression (chapter 12)
-Week 6-8: Markov Chain Monte Carlo [MCMC] Methods. Adaptive MCMC, Parallel Tempered-MCMC, Code-breaking (external material).
-Week 9: Gibbs Sampling, Accept/Reject Algorithms (external material).
-Week 10: Permutation tests, Numerical Integration and Importance Sampling (Chapters 19 and 22; chaps. 21 and 24 in the 2nd ed.).
-Week 11: Approximate Bayesian Computation, ABC-Rejection, ABC-MCMC (external material).
-Week 12: Sequential Monte Carlo Methods, Regression-adjusted ABC (external material)
-Week 13: Hidden Markov Models, Genetic Algorithms. (external material)
+| Week  | Description |
+|:-----:|:------------|
+| **1** | Introduction – Using Github; Random number generation and Monte Carlo Estimation. How to estimate things that you cannot calculate. Coin-tossing. Occupancy problems. Hypercubes. Golf balls. |
+| **2** | More Monte Carlo Estimation: Estimating pi, Random variable simulation, Likelihood Estimation. Bayesian methods. Accept/Reject Algorithms (external material). |
+| **3** | Methods for finding function roots and fixed points. Math as art. (Chapter 10 of course text).|
+| **4** | Probability and Stochastic Simulation – Urn Models and Chinese Restaurants (Chapter 18 vol 1; or Chapter 20, in the 2nd ed.).|
+| **5** | Optimization and Regression (chapter 12)|
+| **6-8** | Markov Chain Monte Carlo [MCMC] Methods. Adaptive MCMC, Parallel Tempered-MCMC, Code-breaking (external material).|
+| **9** | Gibbs Sampling, Accept/Reject Algorithms (external material).|
+| **10** | Permutation tests, Numerical Integration and Importance Sampling (Chapters 19 and 22; chaps. 21 and 24 in the 2nd ed.).|
+| **11** | Approximate Bayesian Computation, ABC-Rejection, ABC-MCMC (external material).|
+| **12** | Sequential Monte Carlo Methods, Regression-adjusted ABC (external material)|
+| **13** | Hidden Markov Models, Genetic Algorithms. (external material)|
 
-Closing Project: Short presentation from a topic we haven’t covered in the course: e.g. E-M algorithms, fancy MCMC version, (e.g. Hamiltonian MCMC, Empirical Bayes methods, Boot-strapping,…), or a related project from your own research.
+**Closing Project**: Short presentation from a topic we haven’t covered in the course: e.g. E-M algorithms, fancy MCMC version, (e.g. Hamiltonian MCMC, Empirical Bayes methods, Boot-strapping,…), or a related project from your own research.
 
 
+### STATEMENT FOR STUDENTS WITH DISABILITIES
 
-STATEMENT FOR STUDENTS WITH DISABILITIES:
 Any student requesting academic accommodations based on a disability is required to register with Disability Services and Programs (DSP) each semester. A letter of verification for approved accommodations can be obtained from DSP. Please be sure the letter is delivered to me (or to TA) as early in the semester as possible. DSP is located in STU 301 and is open 8:30 a.m.–5:00 p.m., Monday through Friday. The phone number for DSP is (213) 740-0776.
 
 	STATEMENT ON ACADEMIC CONDUCT AND SUPPORT SYSTEMS
