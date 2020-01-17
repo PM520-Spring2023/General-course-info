@@ -16,21 +16,23 @@ website: http://www.rstudio.com/
 4. You will need the software Git to talk between GitHub and RStudio. Please install Git
 from https://git-scm.com/downloads. Now we want to set our Git username and email.
 We do this by opening a Terminal (cmd) Window and typing (using "Mona Lisa" as an example username):
->git config --global user.name "Mona Lisa"
-
-confirm that the user name is set by typing
->git config --global user.name
->Mona Lisa
-
-Setting the email is very similar. Do this by typing
->git config --global user.email "email@example.com"
-
-And confirm that you have set the email address by typing:
->git config --global user.email
->email@example.com
-
-Directions to follow are found here, under Setting up Git:
-https://help.github.com/articles/set-up-git/
+    
+    >git config --global user.name "Mona Lisa"
+    
+    confirm that the user name is set by typing
+    >git config --global user.name
+    >Mona Lisa
+    
+    Setting the email is very similar. Do this by typing
+    
+    >git config --global user.email "email@example.com"
+    
+    And confirm that you have set the email address by typing:
+    >git config --global user.email
+    >email@example.com
+    
+    Directions to follow are found here, under Setting up Git:
+    https://help.github.com/articles/set-up-git/
 
 
 In-class exercises and examinable assignments will be posted here. The best way to access them will be via invites you will receive via Github classroom. (If you do it that way it will automatically set up your repositories and make them available to the insdtructor for feedback and grading when you are ready.)
