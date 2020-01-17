@@ -16,21 +16,23 @@ website: http://www.rstudio.com/
 4. You will need the software Git to talk between GitHub and RStudio. Please install Git
 from https://git-scm.com/downloads. Now we want to set our Git username and email.
 We do this by opening a Terminal (cmd) Window and typing (using "Mona Lisa" as an example username):
->git config --global user.name "Mona Lisa"
-
-confirm that the user name is set by typing
->git config --global user.name
->Mona Lisa
-
-Setting the email is very similar. Do this by typing
->git config --global user.email "email@example.com"
-
-And confirm that you have set the email address by typing:
->git config --global user.email
->email@example.com
-
-Directions to follow are found here, under Setting up Git:
-https://help.github.com/articles/set-up-git/
+    
+    >git config --global user.name "Mona Lisa"
+    
+    confirm that the user name is set by typing
+    >git config --global user.name
+    >Mona Lisa
+    
+    Setting the email is very similar. Do this by typing
+    
+    >git config --global user.email "email@example.com"
+    
+    And confirm that you have set the email address by typing:
+    >git config --global user.email
+    >email@example.com
+    
+    Directions to follow are found here, under Setting up Git:
+    https://help.github.com/articles/set-up-git/
 
 
 In-class exercises and examinable assignments will be posted here. The best way to access them will be via invites you will receive via Github classroom. (If you do it that way it will automatically set up your repositories and make them available to the insdtructor for feedback and grading when you are ready.)
@@ -38,11 +40,28 @@ In-class exercises and examinable assignments will be posted here. The best way 
 In order to access the exercise/assignment details, pseudocode, etc., and then be able to push your solutions so that I can see them, you need to accept the invitation you will receive via email for each exercise.
 
 When you start work on an exercises or assignment, you will need to complete the following steps:
+
 1. Accept the invitation to the assignment that you will receive (by email, I think)
+
 2. Link the assignment to your Github ID (github will automatically ask you to do this and help you get it done).
+
 3. Downoad the pseudocode (if there is any for that problem). The simplest way to do this using RStudio is shown in the "Hello World" exercise that we will be doing at the start of class on Week 1.
+
 4. As you are working on the problem, regularly "commit" your work. I will not be able to see what you are doing, and comment on it, until you "push" the work back to Github. Get into the habit of committing regularly.
+
 5. Once you have completed your work on that problem you need to "commit" you work and then push it to github one final time.
+    
+    For each assignment there will be a Github issue
+    [here](https://github.com/PM520-Spring-2020/General-course-info/issues) which you are required to
+    reference when submitting the final version of your assignment. This way I will be notified
+    that your's is ready to be reviewed. In order to use this functionallity, you can:
+    
+    - Add the full URL in the commit message or in a new comment like this: `https://github.com/PM520-Spring-2020/General-course-info/issues/1`, or
+       
+    - Add a short version of it like this: `PM520-Spring-2020/General-course-info#1`
+    
+    For more information about automatic cross-reference links, take a look at the
+    Github documentation [here](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls)
 
 
 ## Here is the Course Syllabus:
@@ -82,25 +101,28 @@ Pre-requisites: None, but you will need to have some basic statistics and probab
 
 
 ### PROPOSED COURSE OUTLINE:
+
 Most weeks will be based upon one of the chapters from the course text, but some of the latter weeks will digress from the text and use material that will be distributed or described in class [labeled “(external material)”].
 
-Week 1: Introduction – Using Github; Random number generation and Monte Carlo Estimation. How to estimate things that you cannot calculate. Coin-tossing. Occupancy problems. Hypercubes. Golf balls. 
-Week 2: More Monte Carlo Estimation: Estimating pi, Random variable simulation, Likelihood Estimation. Bayesian methods. Accept/Reject Algorithms (external material).
-Week 3: Methods for finding function roots and fixed points. Math as art. (Chapter 10 of course text).
-Week 4: Probability and Stochastic Simulation – Urn Models and Chinese Restaurants (Chapter 18 vol 1; or Chapter 20, in the 2nd ed.).
-Week 5: Optimization and Regression (chapter 12)
-Week 6-8: Markov Chain Monte Carlo [MCMC] Methods. Adaptive MCMC, Parallel Tempered-MCMC, Code-breaking (external material).
-Week 9: Gibbs Sampling, Accept/Reject Algorithms (external material).
-Week 10: Permutation tests, Numerical Integration and Importance Sampling (Chapters 19 and 22; chaps. 21 and 24 in the 2nd ed.).
-Week 11: Approximate Bayesian Computation, ABC-Rejection, ABC-MCMC (external material).
-Week 12: Sequential Monte Carlo Methods, Regression-adjusted ABC (external material)
-Week 13: Hidden Markov Models, Genetic Algorithms. (external material)
+| Week  | Description |
+|:-----:|:------------|
+| **1** | Introduction – Using Github; Random number generation and Monte Carlo Estimation. How to estimate things that you cannot calculate. Coin-tossing. Occupancy problems. Hypercubes. Golf balls. |
+| **2** | More Monte Carlo Estimation: Estimating pi, Random variable simulation, Likelihood Estimation. Bayesian methods. Accept/Reject Algorithms (external material). |
+| **3** | Methods for finding function roots and fixed points. Math as art. (Chapter 10 of course text).|
+| **4** | Probability and Stochastic Simulation – Urn Models and Chinese Restaurants (Chapter 18 vol 1; or Chapter 20, in the 2nd ed.).|
+| **5** | Optimization and Regression (chapter 12)|
+| **6-8** | Markov Chain Monte Carlo [MCMC] Methods. Adaptive MCMC, Parallel Tempered-MCMC, Code-breaking (external material).|
+| **9** | Gibbs Sampling, Accept/Reject Algorithms (external material).|
+| **10** | Permutation tests, Numerical Integration and Importance Sampling (Chapters 19 and 22; chaps. 21 and 24 in the 2nd ed.).|
+| **11** | Approximate Bayesian Computation, ABC-Rejection, ABC-MCMC (external material).|
+| **12** | Sequential Monte Carlo Methods, Regression-adjusted ABC (external material)|
+| **13** | Hidden Markov Models, Genetic Algorithms. (external material)|
 
-Closing Project: Short presentation from a topic we haven’t covered in the course: e.g. E-M algorithms, fancy MCMC version, (e.g. Hamiltonian MCMC, Empirical Bayes methods, Boot-strapping,…), or a related project from your own research.
+**Closing Project**: Short presentation from a topic we haven’t covered in the course: e.g. E-M algorithms, fancy MCMC version, (e.g. Hamiltonian MCMC, Empirical Bayes methods, Boot-strapping,…), or a related project from your own research.
 
 
+### STATEMENT FOR STUDENTS WITH DISABILITIES
 
-STATEMENT FOR STUDENTS WITH DISABILITIES:
 Any student requesting academic accommodations based on a disability is required to register with Disability Services and Programs (DSP) each semester. A letter of verification for approved accommodations can be obtained from DSP. Please be sure the letter is delivered to me (or to TA) as early in the semester as possible. DSP is located in STU 301 and is open 8:30 a.m.–5:00 p.m., Monday through Friday. The phone number for DSP is (213) 740-0776.
 
 	STATEMENT ON ACADEMIC CONDUCT AND SUPPORT SYSTEMS
