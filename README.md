@@ -40,11 +40,28 @@ In-class exercises and examinable assignments will be posted here. The best way 
 In order to access the exercise/assignment details, pseudocode, etc., and then be able to push your solutions so that I can see them, you need to accept the invitation you will receive via email for each exercise.
 
 When you start work on an exercises or assignment, you will need to complete the following steps:
+
 1. Accept the invitation to the assignment that you will receive (by email, I think)
+
 2. Link the assignment to your Github ID (github will automatically ask you to do this and help you get it done).
+
 3. Downoad the pseudocode (if there is any for that problem). The simplest way to do this using RStudio is shown in the "Hello World" exercise that we will be doing at the start of class on Week 1.
+
 4. As you are working on the problem, regularly "commit" your work. I will not be able to see what you are doing, and comment on it, until you "push" the work back to Github. Get into the habit of committing regularly.
+
 5. Once you have completed your work on that problem you need to "commit" you work and then push it to github one final time.
+    
+    For each assignment there will be a Github issue
+    [here](https://github.com/PM520-Spring-2020/General-course-info/issues) which you are required to
+    reference when submitting the final version of your assignment. This way I will be notified
+    that your's is ready to be reviewed. In order to use this functionallity, you can:
+    
+    - Add the full URL in the commit message or in a new comment like this: `https://github.com/PM520-Spring-2020/General-course-info/issues/1`, or
+       
+    - Add a short version of it like this: `PM520-Spring-2020/General-course-info#1`
+    
+    For more information about automatic cross-reference links, take a look at the
+    Github documentation [here](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls)
 
 
 ## Here is the Course Syllabus:
