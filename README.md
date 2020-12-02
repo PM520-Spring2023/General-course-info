@@ -51,21 +51,7 @@ When you start work on an exercises or assignment, you will need to complete the
 
 4. As you are working on the problem, regularly "commit" your work. I will not be able to see what you are doing, and comment on it, until you "push" the work back to Github. Get into the habit of committing regularly. 
 
-5. Once you have completed your work on that problem you need to "commit" you work and then push it to github one final time.
-    
-    For each assignment there will be a Github issue
-    [here](https://github.com/PM520-Spring2021/General-course-info/issues) which you are asked to
-    reference when submitting the final version of your assignment. This way I will be notified
-    that your work is ready to be reviewed. In order to use this functionallity, you can:
-    
-    - Add the full URL in the commit message or in a new comment like this: `https://github.com/PM520-Spring2021/General-course-info/issues/1`, or
-       
-    - Add a short version of it like this: `PM520-Spring-2021/General-course-info#1`
-    
-    For more information about automatic cross-reference links, take a look at the
-    Github documentation [here](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls)
-    
-    6. An alternative way of notifying me that you have committed is to include my ID (@pmarjora) in your commit message,
+5. Once you have completed your work on that problem you need to "commit" you work and then push it to github one final time. Once you have done this, please create an issue in that repository and type a message to let me know that you have uploaded your work. Please include my ID (@pmarjora) in your issue text so that Github will notify me that it is ready for me to look at.
 
 
 ## Here is the Course Syllabus:
