@@ -1,6 +1,6 @@
 # General-course-info
 
-Course slides are posted in this repository: https://github.com/PM520-Spring-2020/Lecture-slides---all-weeks
+Course slides are posted in this repository: https://github.com/PM520-Spring2021/Lecture-Slides
 
 We are going to be using github to manage up/download of exercises and assignments. We encourage the use of R as a coding language for this course. Some details of how to install R and github can be found below. Please install these before the first class if you can. If you run into any problems, we can help you with them at the start of class.
 
@@ -37,33 +37,35 @@ We do this by opening a Terminal (cmd) Window and typing (using "Mona Lisa" as a
     https://help.github.com/articles/set-up-git/
 
 
-In-class exercises and examinable assignments will be posted here. The best way to access them will be via invites you will receive via Github classroom. (If you do it that way it will automatically set up your repositories and make them available to the insdtructor for feedback and grading when you are ready.)
+In-class exercises and examinable assignments will be posted here. The best way to access them will be via invites you will receive via Github classroom. (If you do it that way it will automatically set up your repositories and make them available to the instructor for feedback and grading when you are ready.)
 
 In order to access the exercise/assignment details, pseudocode, etc., and then be able to push your solutions so that I can see them, you need to accept the invitation you will receive via email for each exercise.
 
 When you start work on an exercises or assignment, you will need to complete the following steps:
 
-1. Accept the invitation to the assignment that you will receive (by email, I think)
+1. Accept the invitation to the assignment that you will receive by email.
 
 2. Link the assignment to your Github ID (github will automatically ask you to do this and help you get it done).
 
 3. Downoad the pseudocode (if there is any for that problem). The simplest way to do this using RStudio is shown in the "Hello World" exercise that we will be doing at the start of class on Week 1.
 
-4. As you are working on the problem, regularly "commit" your work. I will not be able to see what you are doing, and comment on it, until you "push" the work back to Github. Get into the habit of committing regularly.
+4. As you are working on the problem, regularly "commit" your work. I will not be able to see what you are doing, and comment on it, until you "push" the work back to Github. Get into the habit of committing regularly. 
 
 5. Once you have completed your work on that problem you need to "commit" you work and then push it to github one final time.
     
     For each assignment there will be a Github issue
-    [here](https://github.com/PM520-Spring-2020/General-course-info/issues) which you are required to
+    [here](https://github.com/PM520-Spring2021/General-course-info/issues) which you are asked to
     reference when submitting the final version of your assignment. This way I will be notified
-    that your's is ready to be reviewed. In order to use this functionallity, you can:
+    that your work is ready to be reviewed. In order to use this functionallity, you can:
     
-    - Add the full URL in the commit message or in a new comment like this: `https://github.com/PM520-Spring-2020/General-course-info/issues/1`, or
+    - Add the full URL in the commit message or in a new comment like this: `https://github.com/PM520-Spring2021/General-course-info/issues/1`, or
        
-    - Add a short version of it like this: `PM520-Spring-2020/General-course-info#1`
+    - Add a short version of it like this: `PM520-Spring-2021/General-course-info#1`
     
     For more information about automatic cross-reference links, take a look at the
     Github documentation [here](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls)
+    
+    6. An alternative way of notifying me that you have committed is to include my ID (@pmarjora) in your commit message,
 
 
 ## Here is the Course Syllabus:
@@ -75,7 +77,7 @@ Instructor:	Paul Marjoram, Ph.D.
  
 Teaching Assistants: TBD
 
-Office Hours : Mondays 10am-11am.
+Office Hours : Fridays TBD.
 
 Class Meets:  Monday, 1pm-4pm.
 
