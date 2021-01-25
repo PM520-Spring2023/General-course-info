@@ -61,11 +61,11 @@ Instructor:	Paul Marjoram, Ph.D.
            	Phone: (323) 442-0111
                           Email: pmarjora@usc.edu
  
-Teaching Assistants: TBD
+Teaching Assistants: Shane Guglielmo
 
-Office Hours : Fridays TBD.
+Office Hours : Fridays 2-3pm. (https://usc.zoom.us/j/98934961926,   Meeting ID: 989 3496 1926)
 
-Class Meets:  Monday, 1pm-4pm.
+Class Meets:  Monday, 1pm-4pm. (https://usc.zoom.us/j/92991522608,   Meeting ID: 929 9152 2608)
 
 Course Objective:
 The objective of the course is to give you the skills to enable you to both be able to program, and better understand, statistical machinery using the R programming language. Note that this is not really a course about R, as such. Instead, we use R as a way of illustrating how to write code to perform a number of probabilistic and statistical procedures. We will introduce the R details as we go, but students will be expected to invest some time of their own each week, outside class, in which they improve their R programming skills if necessary.
