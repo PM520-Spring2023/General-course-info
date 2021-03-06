@@ -6,7 +6,7 @@ We are going to be using github to manage up/download of exercises and assignmen
 
 1. The home page for the R project is: http://www.r-project.org/
 Please follow the link downloadR in the box Getting Started.
-Then download and install the most recent release: ver3.6.2 released 2019-12-12.
+Then download and install the most recent release.
 Older machines might require an older version.
 
 2. We will be running R using the R Studio integrated development environment (IDE).
@@ -16,8 +16,8 @@ website: http://www.rstudio.com/
 3. Please create a GitHub account at https://github.com if you do not have one.
 
 4. You will need the software Git to talk between GitHub and RStudio. Please install Git
-from https://git-scm.com/downloads. Now we want to set our Git username and email.
-We do this by opening a Terminal (cmd) Window and typing (using "Mona Lisa" as an example username):
+from https://git-scm.com/downloads. Now you will need to set your Git username and email.
+Do this by opening a Terminal (cmd) Window and typing (using "Mona Lisa" as an example username):
     
     >git config --global user.name "Mona Lisa"
     
@@ -37,7 +37,7 @@ We do this by opening a Terminal (cmd) Window and typing (using "Mona Lisa" as a
     https://help.github.com/articles/set-up-git/
 
 
-In-class exercises and examinable assignments will be posted here. The best way to access them will be via invites you will receive via Github classroom. (If you do it that way it will automatically set up your repositories and make them available to the instructor for feedback and grading when you are ready.)
+In-class exercises and examinable assignments will be posted here. The best way to access them will be via invites you will receive from Github classroom. (If you do it that way it will automatically set up your repositories and make them available to the instructor for feedback and grading when you are ready.)
 
 In order to access the exercise/assignment details, pseudocode, etc., and then be able to push your solutions so that I can see them, you need to accept the invitation you will receive via email for each exercise.
 
