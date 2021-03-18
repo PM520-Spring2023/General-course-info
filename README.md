@@ -79,13 +79,13 @@ Recommended Textbook: “Scientific Programming and Simulation Using R” – Ow
 Please note that each student will also be required to bring a laptop to each class so that they can actively write code during the lab. 
 
 Other Material: Copies of slides will be posted, as will example bits of code. But there are a host of free online resources for R:
-•	Mastering Software Development in R, 2017. Roger Peng, Sean Kross, Brooke Anderson. https://bookdown.org/rdpeng/RProgDA/
-•	R for Data Science, 2017 Garrett Grolemund and Hadley Wickham. http://r4ds.had.co.nz/
-•	Advanced R, 2014, Hadley Wickham, CRC press. http://adv-r.had.co.nz/ (Second edition is avalaible in print on June 28 https://www.amazon.com/gp/product/0815384572/, online here: https://adv-r.hadley.nz/)
-•	R Packages, 2015, Hadley Wickham, O’Reilly. http://r-pkgs.had.co.nz/ (work on a second edition is in development here https://r-pkgs.org/ starting as of 2019-02)
-•	Advanced Statistical Computing, 2018 Roger Peng (https://bookdown.org/rdpeng/advstatcomp/) 
+*	Mastering Software Development in R, 2017. Roger Peng, Sean Kross, Brooke Anderson. https://bookdown.org/rdpeng/RProgDA/
+*	R for Data Science, 2017 Garrett Grolemund and Hadley Wickham. http://r4ds.had.co.nz/
+*	Advanced R, 2014, Hadley Wickham, CRC press. http://adv-r.had.co.nz/ (Second edition is avalaible in print on June 28 https://www.amazon.com/gp/product/0815384572/, online here: https://adv-r.hadley.nz/)
+*	R Packages, 2015, Hadley Wickham, O’Reilly. http://r-pkgs.had.co.nz/ (work on a second edition is in development here https://r-pkgs.org/ starting as of 2019-02)
+*	Advanced Statistical Computing, 2018 Roger Peng (https://bookdown.org/rdpeng/advstatcomp/) 
 
-Grading:  70% projects + 20% final presentation + 10% participation. 
+Grading:  70% projects + 30% final presentation. 
 
 Pre-requisites: None, but you will need to have some basic statistics and probability. If you are not sure, come and see me to talk about it.
 
