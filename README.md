@@ -61,11 +61,11 @@ Instructor:	Paul Marjoram, Ph.D.
            	Phone: (323) 442-0111
                           Email: pmarjora@usc.edu
  
-Teaching Assistants: Shane Guglielmo
+Teaching Assistants: TBD
 
-Office Hours : Fridays 2-3pm. (https://usc.zoom.us/j/98934961926,   Meeting ID: 989 3496 1926)
+Office Hours : Fridays 2-3pm. (https://usc.zoom.us/j/98934961926,   Meeting ID: 992 9667 2099)
 
-Class Meets:  Monday, 1pm-4pm. (https://usc.zoom.us/j/92991522608,   Meeting ID: 929 9152 2608)
+Class Meets:  Monday, 1pm-4pm.
 
 Course Objective:
 The objective of the course is to give you the skills to enable you to both be able to program, and better understand, statistical machinery using the R programming language. Note that this is not really a course about R, as such. Instead, we use R as a way of illustrating how to write code to perform a number of probabilistic and statistical procedures. We will introduce the R details as we go, but students will be expected to invest some time of their own each week, outside class, in which they improve their R programming skills if necessary.
@@ -106,7 +106,7 @@ Most weeks will be based upon one of the chapters from the course text, but some
 | **10** | Permutation tests, Numerical Integration and Importance Sampling (Chapters 19 and 22; chaps. 21 and 24 in the 2nd ed.).|
 | **11** | Approximate Bayesian Computation, ABC-Rejection, ABC-MCMC (external material).|
 | **12** | Sequential Monte Carlo Methods, Regression-adjusted ABC (external material)|
-| **13** | Hidden Markov Models, Genetic Algorithms. (external material)|
+| **13** | E-M algorithm; boot-strap sampling. (external material)|
 
 **Closing Project**: Short presentation from a topic we haven’t covered in the course: e.g. E-M algorithms, fancy MCMC version, (e.g. Hamiltonian MCMC, Empirical Bayes methods, Boot-strapping,…), or a related project from your own research.
 
