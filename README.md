@@ -61,9 +61,9 @@ Instructor:	Paul Marjoram, Ph.D.
            	Phone: (323) 442-0111
                           Email: pmarjora@usc.edu
  
-Teaching Assistants: TBD
+Teaching Assistants: Yue Tue
 
-Office Hours : Fridays 2-3pm. (https://usc.zoom.us/j/98934961926,   Meeting ID: 992 9667 2099)
+Office Hours : TBD
 
 Class Meets:  Friday, 10am-1pm, in SSB117 (but virtually via Zoom for week 1).
 Zoom links can be found under the ZoomPro tab on the Blackboard page for the course.
