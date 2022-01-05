@@ -65,7 +65,9 @@ Teaching Assistants: TBD
 
 Office Hours : Fridays 2-3pm. (https://usc.zoom.us/j/98934961926,   Meeting ID: 992 9667 2099)
 
-Class Meets:  Monday, 1pm-4pm.
+Class Meets:  Friday, 10am-1pm, in SSB117 (but virtually via Zoom for week 1).
+Zoom links can be found under the ZoomPro tab on the Blackboard page for the course.
+
 
 Course Objective:
 The objective of the course is to give you the skills to enable you to both be able to program, and better understand, statistical machinery using the R programming language. Note that this is not really a course about R, as such. Instead, we use R as a way of illustrating how to write code to perform a number of probabilistic and statistical procedures. We will introduce the R details as we go, but students will be expected to invest some time of their own each week, outside class, in which they improve their R programming skills if necessary.
@@ -107,6 +109,7 @@ Most weeks will be based upon one of the chapters from the course text, but some
 | **11** | Approximate Bayesian Computation, ABC-Rejection, ABC-MCMC (external material).|
 | **12** | Sequential Monte Carlo Methods, Regression-adjusted ABC (external material)|
 | **13** | E-M algorithm; boot-strap sampling. (external material)|
+| **14** | Genetic Algorithms and Hidden Markov Models (external material)|
 
 **Closing Project**: Short presentation from a topic we haven’t covered in the course: e.g. E-M algorithms, fancy MCMC version, (e.g. Hamiltonian MCMC, Empirical Bayes methods, Boot-strapping,…), or a related project from your own research.
 
