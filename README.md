@@ -1,6 +1,6 @@
-# General-course-info
+# General Course Info
 
-Syllabus and course slides are posted on blackboard webpage
+*Syllabus and course slides are posted on blackboard webpage*
 
 We are going to be using github to manage up/download of exercises and assignments. We encourage the use of R as a coding language for this course. Some details of how to install R and github can be found below. Please install these before the first class if you can. If you run into any problems, we can help you with them at the start of class.
 
